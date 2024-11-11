@@ -11852,6 +11852,10 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 25px;
 }
 
+.full-stack{
+height:100%;
+}
+
 @media only screen and (min-width: 1100px) {
 
   #slider-container #slider .slide {
